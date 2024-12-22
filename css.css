@@ -61,7 +61,7 @@ body, button, input {
 }
 
 .main {
-  background-color: #000000;
+  background-color: #fafafa;
   order: 4;
   flex-grow: 1;
   -webkit-box-flex: 1;
@@ -225,7 +225,7 @@ input#name:focus, input#password:focus {
 
 /* FOOTER */
 .footer {
-  background-color: #000000;
+  background-color: #fafafa;
   order: 5;
   padding: 0 20px;
   background: #fafafa;
@@ -234,7 +234,7 @@ input#name:focus, input#password:focus {
 .footer-container {
   flex-direction: row;  
   flex-wrap:wrap;
-  background-color: #000000;
+  background-color: #fafafa;
   justify-content: space-between;
   padding: 38px 0;
   max-width:935px;
