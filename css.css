@@ -225,7 +225,7 @@ input#name:focus, input#password:focus {
 
 /* FOOTER */
 .footer {
-  background-color: #fafafa;
+  background-color: #000000;
   order: 5;
   padding: 0 20px;
   background: #fafafa;
@@ -234,7 +234,7 @@ input#name:focus, input#password:focus {
 .footer-container {
   flex-direction: row;  
   flex-wrap:wrap;
-  background-color: #fafafa;
+  background-color: #000000;
   justify-content: space-between;
   padding: 38px 0;
   max-width:935px;
