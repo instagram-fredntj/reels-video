@@ -61,7 +61,7 @@ body, button, input {
 }
 
 .main {
-  background-color: #fafafa;
+  background-color: #000000;
   order: 4;
   flex-grow: 1;
   -webkit-box-flex: 1;
